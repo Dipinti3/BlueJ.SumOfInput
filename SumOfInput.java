@@ -19,7 +19,7 @@ public class SumOfInput
     }
     
     public Integer oneToNumber(Integer numberToSum){
-
+        sum=(numberToSum*(numberToSum+1))/2;
         return sum;
     }
 

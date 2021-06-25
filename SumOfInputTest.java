@@ -8,8 +8,8 @@ import org.junit.Test;
 /**
  * The test class SumOfInputTest.
  *
- * @author  (your name)
- * @version (a version number or a date)
+ * @author  (dipinti)
+ * @version (06/24/2021)
  */
 public class SumOfInputTest
 {
@@ -18,6 +18,7 @@ public class SumOfInputTest
      */
     //Bonus Question! How is this constructor used when none is defined
     //in the class?
+    //Answer: This initializes the sum to 0.
     public SumOfInputTest()
     {
     }
